@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1415209178846466069/1415209687510552606/2cc98a28-3f7b-4b17-950d-d7e8a8c798fe.gif?ex=68c2603a&is=68c10eba&hm=e2fc96348300be109dadfa78597e8635929b35ae0bf740158d119163f44af5ea&" alt="GIF Banner" />
+  <img src="https://cdn.discordapp.com/attachments/1412741275811315743/1417578199055077457/a_e4731f82a73e993c31a595930ec9dca3.gif?ex=68cafe13&is=68c9ac93&hm=42b0e379bd3a632dcbd0d4ab21216e8adcf880d0fa8d3d36818bcbb0896ed34b&" alt="GIF Banner" />
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://github.com/Auth">Auth</a> 👋</h1>
